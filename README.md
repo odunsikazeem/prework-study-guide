@@ -1,7 +1,7 @@
 # <Prework Study Guide Webpage>
 
 ## Description
-The motivation for this project is to store all my lesson notes online.I built the project inorder for me track all my jouney in the bootcamp training.The project was able to solve the problem of keeping hard copies of notes and proper arrangement of files and data.I learnt that a webpage will showcase me to potential clients,companies and collaborators on work: 
+The motivation for this project is to store all my lesson notes online.I built the project inorder for me track all my jouney in the bootcamp training.The project was able to solve the issue associated with keeping hard copies of notes and proper arrangement of files and data.I learnt that a webpage will showcase me to potential clients,companies and collaborators on work: 
 
 
 
